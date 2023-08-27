@@ -1,6 +1,6 @@
 # Chess Game
 
-A Chess game implemented using JavaFX.
+Chess game implemented using JavaFX.
 
 ## Features
 
